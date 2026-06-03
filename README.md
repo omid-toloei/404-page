@@ -1,2 +1,18 @@
-# 404-page
-A custom 404 error page with mouse parallax effect, built with vanilla HTML, CSS and JavaScript
+# 🚫 404 Page
+
+A custom 404 error page with a smooth mouse parallax background effect, built with pure **HTML**, **CSS**, and **JavaScript**.
+
+## Features
+
+- Interactive parallax effect on mouse movement
+- Fully responsive design (mobile to desktop)
+- Persian (RTL) layout
+- Glowing button with hover animation
+
+## Getting Started
+
+No installation needed — just open `index.html` in your browser.
+
+## Author
+
+Built with ❤️ — A JavaScript practice project
