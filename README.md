@@ -11,4 +11,6 @@ A custom 404 error page with a smooth mouse parallax background effect, built wi
 
 ## 📷Demo
 
-![Project Demo](assets/demo/demo.gif)
+<div align="center">
+  <img src="assets/demo/demo.png" alt="picture of demo">
+</div>
