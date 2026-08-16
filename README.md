@@ -15,4 +15,4 @@ No installation needed — just open `index.html` in your browser.
 
 ## Author
 
-Built with ❤️ — A JavaScript practice project
+A JavaScript practice project
