@@ -8,3 +8,9 @@ A custom 404 error page with a smooth mouse parallax background effect, built wi
 - Fully responsive design (mobile to desktop)
 - Persian (RTL) layout
 - Glowing button with hover animation
+
+## 📷Demo
+
+<div align="center">
+  <img src="assets/demo/demo.gif" alt="Project Demo">
+</div>
